@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ApekshaChhabra
-- 👀 I’m interested in Data Analytics, Data Visulaization
-- 🌱 I’m currently learning PYthon,SQL,Data Visualization Tools(Tableau,PowerBi)
+- 👀 I’m interested in Data Analytics, Data Visualization
+- 🌱 I have learnt Python,SQL,Data Visualization Tools(Tableau,PowerBi)
 - 💞️ I’m looking to collaborate on Data Analytics, Data Visualization and Python
-- 📫 How to reach me apeksha.chhabra123@gmail.com
+- 📫 How to reach me : apeksha.chhabra123@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
